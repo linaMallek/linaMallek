@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linaMallek&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linaMallek&theme=tokyonight=000000)](https://git.io/streak-stats)
