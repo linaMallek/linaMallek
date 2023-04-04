@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
 
 - 👋 Hi, I’m @linaMallek
 - 👀 I’m interested in coding 
@@ -29,3 +30,4 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linaMallek&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linaMallek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
