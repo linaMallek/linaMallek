@@ -1,10 +1,13 @@
 <div align="center">
-<h1>Lina MALLEK</h1> <h2>Computer vision graduate </h2>
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="Banner">
 
+  <h1>✨ Lina MALLEK ✨</h1>
+  <h3>🎓 Computer Vision Graduate | Designer | Developer 🎨</h3>
 
-![Profile Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+  <p>
+    Passionate about creating innovative, AI-driven solutions that bridge technology and design.
+  </p>
 </div>
-
 ---
 
 <div align="center">
