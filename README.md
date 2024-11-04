@@ -1,21 +1,28 @@
 <div align="center">
 <h1>Lina MALLEK</h1> 
+
+![Profile Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
+  <h3>👋 Welcome to My GitHub Profile!</h3>
 </div>
 
+<p align="center">
+  <a href="mailto:linamlk23@gmail.com"><img src="https://img.shields.io/badge/Email-linamlk23@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 ---
 
-- 👋 Hi, I’m @linaMallek 
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning to code 
-- 📫 How to reach me linamlk23@gmail.com
-
+### 🚀 About Me
+- 👋 **Hi, I’m Lina Mallek** — a passionate **Designer**, **Developer**, and **Computer Vision Engineer**.
+- 🌱 **Currently Learning:** Python & Artificial Intelligence (NLP for my first project).
+- 🎨 **Skills:** Image Analysis, Web Development, Computer Vision, and more!
+- 👀 **Interests:** Coding, Hackathons, and exploring innovative tech solutions.
+  
+---
 <!---
 linaMallek/linaMallek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
