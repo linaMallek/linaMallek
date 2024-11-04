@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="Banner">
+ 
 
   <h1>✨ Lina MALLEK ✨</h1>
-  <h3>🎓 Computer Vision Graduate | Designer | Developer 🎨</h3>
+  <h3>🎓 Computer Vision Graduate  | Developer 🎨</h3>
 
   <p>
     Passionate about creating innovative, AI-driven solutions that bridge technology and design.
   </p>
+   <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="Banner">
 </div>
+
 ---
 
 <div align="center">
@@ -67,6 +69,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <div align="center">
-  <h4>Thank you for visiting! Let's build amazing things together.</h4>
+  <h4>✨ Thank you for visiting! Let's build amazing things together ✨</h4>
 </div>
 
