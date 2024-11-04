@@ -17,8 +17,8 @@
 ---
 
 ### 🚀 About Me
-- 👋 **Hi, I’m Lina Mallek** — a passionate **Designer**, **Developer**, and **Computer Vision Engineer**.
-- 🌱 **Currently Learning:** Python & Artificial Intelligence (NLP for my first project).
+- 👋 **Hi, I’m Lina Mallek** — a passionate  **Developer**, **Designer** and **Computer Vision Engineer**.
+- 🌱 **Currently Learning:** Python & Artificial Intelligence .
 - 🎨 **Skills:** Image Analysis, Web Development, Computer Vision, and more!
 - 👀 **Interests:** Coding, Hackathons, and exploring innovative tech solutions.
   
@@ -27,24 +27,7 @@
 linaMallek/linaMallek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### 🖼️ Featured Projects
-#### **1. Augmented Reality App with Unity and Vuforia**
-- **Description:** 3D model gallery app with interactive AR display.
 
-#### **2. Smart Factory Analytics Platform**
-- **Description:** Smart analytics for factory monitoring and production tracking.
-
----
-
-### 🎉 Fun Facts
-- 🌐 Participated in multiple **Hackathons**: WTM, TC, MICROHACK, HACKIWHA.
-- 🏆 Recently placed **3rd** in an internal hackathon hosted by **Micro Club**.
-- 🤖 Passionate about bridging **AI and design** to create user-centric solutions.
----
-
-<div align="center">
-  <h4>Thank you for visiting! Let's build amazing things together.</h4>
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -55,6 +38,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Tool-Unity-808080?style=flat-square&logo=unity"/>
+  <img src="https://img.shields.io/badge/Tool-VTK-orange?style=flat-square&logo=vtk"/>
+  <img src="https://img.shields.io/badge/Framework-Flutter-blue?style=flat-square&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Library-OpenCV-green?style=flat-square&logo=opencv"/>
 </div>
 
 ---
@@ -66,3 +55,9 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linaMallek&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linaMallek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<div align="center">
+  <h4>Thank you for visiting! Let's build amazing things together.</h4>
+</div>
+
