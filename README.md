@@ -27,7 +27,24 @@
 linaMallek/linaMallek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### 🖼️ Featured Projects
+#### **1. Augmented Reality App with Unity and Vuforia**
+- **Description:** 3D model gallery app with interactive AR display.
+
+#### **2. Smart Factory Analytics Platform**
+- **Description:** Smart analytics for factory monitoring and production tracking.
+
 ---
+
+### 🎉 Fun Facts
+- 🌐 Participated in multiple **Hackathons**: WTM, TC, MICROHACK, HACKIWHA.
+- 🏆 Recently placed **3rd** in an internal hackathon hosted by **Micro Club**.
+- 🤖 Passionate about bridging **AI and design** to create user-centric solutions.
+---
+
+<div align="center">
+  <h4>Thank you for visiting! Let's build amazing things together.</h4>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
