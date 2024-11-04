@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Lina MALLEK</h1> 
+<h1>Computer vision graduate </h1>
 
 ![Profile Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 </div>
@@ -38,12 +39,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Tool-Unity-808080?style=flat-square&logo=unity"/>
-  <img src="https://img.shields.io/badge/Tool-VTK-orange?style=flat-square&logo=vtk"/>
-  <img src="https://img.shields.io/badge/Framework-Flutter-blue?style=flat-square&logo=flutter"/>
-  <img src="https://img.shields.io/badge/Library-OpenCV-green?style=flat-square&logo=opencv"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+
 </div>
 
 ---
