@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Lina MALLEK</h1> 
-<h1>Computer vision graduate </h1>
+<h2>Computer vision graduate </h2>
 
 ![Profile Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 </div>
@@ -62,21 +62,6 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linaMallek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=linaMallek&color=green" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=linaMallek&theme=tokyonight&background=000000" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaMallek&layout=compact&theme=tokyonight" alt="Top Langs" /></a>
-</p>
 ---
 <div align="center">
   <h4>Thank you for visiting! Let's build amazing things together.</h4>
