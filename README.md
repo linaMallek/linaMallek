@@ -59,13 +59,26 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :fire: My Stats : 
-![](https://komarev.com/ghpvc/?username=linaMallek&color=green)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=linaMallek&color=green" alt="Profile Views"/>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linaMallek&theme=dark&background=000000)](https://git.io/streak-stats)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+    </td>
+    <td>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=linaMallek&theme=dark&background=000000" alt="GitHub Streak" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaMallek&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linaMallek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
