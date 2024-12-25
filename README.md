@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linaMallek&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
