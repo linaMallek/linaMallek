@@ -80,8 +80,6 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 <div align="center">
   <h4>✨ Thank you for visiting! Let's build amazing things together ✨</h4>
