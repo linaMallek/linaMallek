@@ -84,8 +84,5 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h4>✨ Thank you for visiting! Let's build amazing things together ✨</h4>
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/linaMallek/linaMallek/output/snake.svg" alt="Snake animation">
-</p>
 
 
