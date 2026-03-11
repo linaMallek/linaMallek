@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" alt="Banner">
   
   <p>
-    <a href="mailto:linamlk23@gmail.com">
+    <a href="mailto:linamallek196@gmail.com">
       <img src="https://img.shields.io/badge/Email-linamlk23@gmail.com-blue?style=flat-square&logo=gmail">
     </a>
   </p>
