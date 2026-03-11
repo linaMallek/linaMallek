@@ -70,9 +70,7 @@ You can click the Preview link to take a look at your changes.
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-    </td>
+
     <td>
       <img src="http://github-readme-streak-stats.herokuapp.com?user=linaMallek&theme=dark&background=000000" alt="GitHub Streak" width="400"/>
     </td>
