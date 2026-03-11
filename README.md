@@ -69,12 +69,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <table align="center">
-  <!-- <tr>
+  <tr>
 
-    <td>
+  <td>
       <img src="http://github-readme-streak-stats.herokuapp.com?user=linaMallek&theme=dark&background=000000" alt="GitHub Streak" width="400"/>
-    </td>
-  </tr> -->
+  </td>
+  </tr> 
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaMallek&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400"/>
