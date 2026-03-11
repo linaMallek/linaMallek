@@ -3,7 +3,7 @@
   <h1>✨ Lina MALLEK ✨</h1>
   <h3>Computer Vision Graduate | Developer & AI Artist </h3>
   
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="Banner">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" alt="Banner">
   
   <p>
     <a href="mailto:linamlk23@gmail.com">
