@@ -70,7 +70,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=radical&include_all_commits=true" alt="Top Languages" width="400"/>
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=linaMallek&theme=radical&hide_border=true" alt="GitHub Streak" width="400"/>
@@ -93,11 +93,6 @@
   <!-- Stats plus détaillées avec tous les commits -->
 
 
-<!-- Graphique d'activité -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=linaMallek&theme=react-dark" alt="Top Languages" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=radical&include_all_commits=true" alt="Top Languages" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=linaMallek" alt="Top Languages" width="400"/>
-<!-- WakaTime (si tu utilises) pour voir ton temps de codage -->
 
 </div>
 
