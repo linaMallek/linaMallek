@@ -91,13 +91,14 @@
   
   ### ✨ Thank you for visiting! Let's build amazing things together ✨
   <!-- Stats plus détaillées avec tous les commits -->
-https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=radical&include_all_commits=true
+
 
 <!-- Graphique d'activité -->
-https://github-readme-activity-graph.vercel.app/graph?username=linaMallek&theme=react-dark
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=linaMallek&theme=react-dark" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=radical&include_all_commits=true" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=linaMallek" alt="Top Languages" width="400"/>
 <!-- WakaTime (si tu utilises) pour voir ton temps de codage -->
-https://github-readme-stats.vercel.app/api/wakatime?username=linaMallek
+
 </div>
 
 <!--
