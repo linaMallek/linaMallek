@@ -90,7 +90,14 @@
 <div align="center">
   
   ### ✨ Thank you for visiting! Let's build amazing things together ✨
-  
+  <!-- Stats plus détaillées avec tous les commits -->
+https://github-readme-stats.vercel.app/api?username=linaMallek&show_icons=true&theme=radical&include_all_commits=true
+
+<!-- Graphique d'activité -->
+https://github-readme-activity-graph.vercel.app/graph?username=linaMallek&theme=react-dark
+
+<!-- WakaTime (si tu utilises) pour voir ton temps de codage -->
+https://github-readme-stats.vercel.app/api/wakatime?username=linaMallek
 </div>
 
 <!--
